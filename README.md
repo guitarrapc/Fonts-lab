@@ -12,6 +12,8 @@ Currently using `DejaVuSansMono-Bront`.
 
 ## Programming fonts
 
+Here's font [preview](https://github.com/guitarrapc/Fonts-lab/blob/master/PREVIEW.md).
+
 * [DejaVuSansMono-Bront](https://github.com/chrismwendt/bront) - The best font at this stage.
 * [Consolas](https://github.com/PiotrGrochowski/Consolas) - 8.0 is open source but still not good at l and 1
 * [Hack](https://github.com/source-foundry/Hack) - Awesome but not like 0 with dot, I wanna slash.
