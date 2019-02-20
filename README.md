@@ -14,8 +14,8 @@ Currently using `DejaVuSansMono-Bront`.
 
 Here's font [preview](https://github.com/guitarrapc/Fonts-lab/blob/master/PREVIEW.md).
 
-* [DejaVuSansMono-Bront](https://github.com/chrismwendt/bront) - The best font at this stage.
 * [Consolas](https://github.com/PiotrGrochowski/Consolas) - 8.0 is open source but still not good at l and 1
+* [DejaVuSansMono-Bront](https://github.com/chrismwendt/bront) - The best font at this stage.
 * [Hack](https://github.com/source-foundry/Hack) - Awesome but not like 0 with dot, I wanna slash.
 * [Meslo-Font](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font
 * [Mononoki](http://madmalik.github.io/mononoki/) - Quite nice with g and 0
