@@ -10,7 +10,7 @@ Order
 Emoji
 
 * Under the Border : :cry:
-* On the Border : :simple_smile:
+* On the Border : :eyes:
 * Bad : :-1:
 * Good : :+1:
 
@@ -25,16 +25,17 @@ g9qCGQ | distinct each | g is Slab serif | g is not Slab serif, Q is serif font
 LR | | too narrow | TODO: measure
 TB | | too wide | TODO: measure
 Size | | too small | TODO: measure
+Balance | | | TODO: measure
 
 ## Programming fonts
 
 Here's font [preview](https://github.com/guitarrapc/Fonts-lab/blob/master/PREVIEW.md).
 
-Font Name | oO08 | iIlL1 | g9qCGQ | ~-+=> | LR | TB | Size
----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- 
-[Consolas](https://github.com/PiotrGrochowski/Consolas) | :+1: | :-1: | :+1: | :+1: | :-1: | :+1: | :+1:
-[DejaVuSansMono-Bront](https://github.com/chrismwendt/bront) | :+1: | :+1: | :-1: | :+1: | :+1: | :+1: | :+1:
-[Hack](https://github.com/source-foundry/Hack) | :-1: | :+1: | :-1: | :+1: | :+1: | :+1: | :+1:
-[Meslo-Font](https://github.com/andreberg/Meslo-Font) | :+1: | :+1: | :-1: | :+1: | :+1: | :-1: | :+1:
-[Mononoki](http://madmalik.github.io/mononoki/) | :+1: | :+1: | :+1: | :+1: | :-1: | :+1: | :-1:
-[Source Code Pro](https://github.com/adobe-fonts/source-code-pro) | :-1: | :+1: | :+1: | :+1: | :-1: | :-1: | :-1:
+Font Name | Total | oO08 | iIlL1 | g9qCGQ | ~-+=> | LR | TB | Size | Balance
+---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
+[Consolas](https://github.com/PiotrGrochowski/Consolas) | 3 | :+1: | :-1: | :+1: | :+1: | :-1: | :+1: | :+1: | :eyes:
+[DejaVuSansMono-Bront](https://github.com/chrismwendt/bront) | 4 | :+1: | :+1: | :-1: | :eyes: | :+1: | :+1: | :eyes: | :+1:
+[Hack](https://github.com/source-foundry/Hack) | 3 | :-1: | :+1: | :-1: | :eyes: | :+1: | :+1: | :+1: | :+1:
+[Meslo-Font](https://github.com/andreberg/Meslo-Font) | 3 | :+1: | :+1: | :-1: | :eyes: | :+1: | :-1: | :+1: | :+1:
+[Mononoki](http://madmalik.github.io/mononoki/) | 3 | :+1: | :+1: | :+1: | :+1: | :-1: | :+1: | :-1: | :eyes:
+[Source Code Pro](https://github.com/adobe-fonts/source-code-pro) | -2 | :-1: | :+1: | :+1: | :+1: | :-1: | :-1: | :-1: | :-1:
