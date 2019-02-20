@@ -17,7 +17,7 @@ Emoji
 Lookup Table
 
 Target | Border | Bad if | Good if
----- | ---- | ---- | ---- | ----
+---- | ---- | ---- | ----
 oO08 | distinct each | 0 has dot inside | 0 has slash
 iIlL1 | distinct each | l and 1 are almost same | l and 1 are completely different
 g9qCGQ | distinct each | g is Slab serif | g is not Slab serif, Q is serif font
