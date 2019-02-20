@@ -12,7 +12,8 @@ Currently using `DejaVuSansMono-Bront`.
 
 ## Programming fonts
 
-Here's font [preview](https://github.com/guitarrapc/Fonts-lab/blob/master/PREVIEW.md).
+Here's font [preview](https://github.com/guitarrapc/Fonts-lab/blob/master/PREVIEW.md) and [score](https://github.com/guitarrapc/Fonts-lab/blob/master/SCORE.md).
+
 
 * [Consolas](https://github.com/PiotrGrochowski/Consolas) - 8.0 is open source but still not good at l and 1
 * [DejaVuSansMono-Bront](https://github.com/chrismwendt/bront) - The best font at this stage.
