@@ -31,7 +31,7 @@ Size | | too small | TODO: measure
 Here's font [preview](https://github.com/guitarrapc/Fonts-lab/blob/master/PREVIEW.md).
 
 Font Name | oO08 | iIlL1 | g9qCGQ | ~-+=> | LR | TB | Size
----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
+---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- 
 [Consolas](https://github.com/PiotrGrochowski/Consolas) | :+1: | :-1: | :+1: | :+1: | :-1: | :+1: | :+1:
 [DejaVuSansMono-Bront](https://github.com/chrismwendt/bront) | :+1: | :+1: | :-1: | :+1: | :+1: | :+1: | :+1:
 [Hack](https://github.com/source-foundry/Hack) | :-1: | :+1: | :-1: | :+1: | :+1: | :+1: | :+1:
