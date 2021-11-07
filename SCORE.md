@@ -33,7 +33,7 @@ Here's font [preview](https://github.com/guitarrapc/Fonts-lab/blob/master/PREVIE
 
 Font Name | Total | oO08 | iIlL1 | g9qCGQ | ~-+=> | LR | TB | Size | Balance
 ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
-Cascadia Mono | 4 | :-1: | :+1: | :-1: (g) | +1 | :+1: | :+1: | +1 | +1
+Cascadia Mono | 4 | :-1: | :+1: | :-1: (g) | :+1: | :+1: | :+1: | :+1: | :+1:
 Consolas | 3 | :+1: | :-1: | :+1: | :+1: | :-1: | :+1: | :+1: | :eyes:
 DejaVuSansMono-Bront | 4 | :+1: | :+1: | :-1: (g)| :eyes: | :+1: | :+1: | :eyes: | :+1:
 Hack | 3 | :-1: | :+1: | :-1: (g) | :eyes: | :+1: | :+1: | :+1: | :+1:
