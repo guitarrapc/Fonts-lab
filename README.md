@@ -1,16 +1,17 @@
-Fonts-lab
-----
+# Fonts-lab
 
 A curated list of fonts for programing.
 
-Currently using `DejaVuSansMono-Bront`.
+> Currently using `DejaVuSansMono-Bront`.
 
-## Contents
+Fonts are compare with [code.js](#https://github.com/guitarrapc/Fonts-lab/blob/master/code.js)
 
-1. [Programming fonts](#programming-fonts)
-1. [Oh my Lingature](#oh-my-lingature)
+# Contents
 
-## Programming fonts
+* [Programming fonts](#programming-fonts)
+* [With Lingature](#with-lingature)
+
+# Programming fonts
 
 Here's font [preview](https://github.com/guitarrapc/Fonts-lab/blob/master/PREVIEW.md) and [score](https://github.com/guitarrapc/Fonts-lab/blob/master/SCORE.md).
 
@@ -19,10 +20,14 @@ Here's font [preview](https://github.com/guitarrapc/Fonts-lab/blob/master/PREVIE
 * [Meslo-Font](https://github.com/andreberg/Meslo-Font) ([LICENSE: Apache 2.0](https://github.com/andreberg/Meslo-Font#license)) - Customized version of Apple's Menlo font
 * [Mononoki](https://github.com/madmalik/mononoki) ([LICENSE: OFL-1.1](https://github.com/madmalik/mononoki/blob/master/LICENSE)) - Quite nice with g and 0
 * [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) ([LICENSE: OFL-1.1](https://github.com/adobe-fonts/source-code-pro/blob/master/LICENSE.md)) - Good but too wide 
-* Consolas - Windows default installed font, good for programming.
+* Consolas - Windows default installed font, good for programming. 
+* [Cascadia Mono](https://github.com/microsoft/cascadia-code) ([LICENSE: OFL-1.1](https://github.com/microsoft/cascadia-code/blob/main/LICENSE)) - Windows Terminal default font. Better than Consolas. Small letter is 1/2 height.
 
-## Oh my Lingature
+# With Lingature
 
 * [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans) ([LICENSE: OFL-1.1](https://github.com/belluzj/fantasque-sans/blob/master/LICENSE.txt))
 * [Inconsolata](http://levien.com/type/myfonts/inconsolata.html) ([LICENSE: OFL-1.1](https://levien.com/type/myfonts/inconsolata.html))
 * [Monoid](https://github.com/larsenwork/monoid) ([LICENSE: Dual License - MIT and OFL-1.1](https://github.com/larsenwork/monoid#licenses))
+* [Cascadia Code](https://github.com/microsoft/cascadia-code) ([LICENSE: OFL-1.1](https://github.com/microsoft/cascadia-code/blob/main/LICENSE)) - Windows Terminal font with Ligatures. Better than Consolas. Small letter is 1/2 height.
+
+
