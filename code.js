@@ -1,5 +1,7 @@
 // Type some code ->
 
+// === != == ~> -> <!-- -->
+// ___|___
 console.log "oO08 iIlL1 g9qCGQ ~-+=>";
 
 function updateGutters(cm) {

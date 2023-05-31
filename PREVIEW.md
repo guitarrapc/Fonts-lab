@@ -5,7 +5,9 @@ Font Preview
 
 Font Name | Light | Dark
 ---- | ---- | ----
-[Cascadia code](https://github.com/microsoft/cascadia-code) | ![image](images/preview/cascadia_mono.png) | ![image](images/preview/cascadia_mono_dark.png)
+[0xProto](https://github.com/0xType/0xProto) | ![image](images/preview/0xproto.png) | ![image](images/preview/0xproto_dark.png)
+[Cascadia code](https://github.com/microsoft/cascadia-code) | ![image](images/preview/cascadia_code.png) | ![image](images/preview/cascadia_code_dark.png)
+[Cascadia mono](https://github.com/microsoft/cascadia-code) | ![image](images/preview/cascadia_mono.png) | ![image](images/preview/cascadia_mono_dark.png)
 [Consolas](https://github.com/PiotrGrochowski/Consolas) | ![image](images/preview/consolas8_0.png) | ![image](images/preview/consolas8_0_dark.png)
 [DejaVuSansMono-Bront](https://github.com/chrismwendt/bront) | ![image](images/preview/dejavu_sans_mono_bront.png) | ![image](images/preview/dejavu_sans_mono_bront_dark.png)
 [Hack](https://github.com/source-foundry/Hack) | ![image](images/preview/hack.png) | ![image](images/preview/hack_dark.png)
